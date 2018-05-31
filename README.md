@@ -1,2 +1,2 @@
-# Threads-In-Java
-A simple illustration of how threads work in java
+# FileExtractor
+This is a simple program for extracting files in java.
